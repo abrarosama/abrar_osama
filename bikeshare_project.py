@@ -203,6 +203,7 @@ def main():
         show_row_data(df)
         restart = input('\nWould you like to restart? Enter "y" for yes or "n" for no.\n').lower()
         if restart.lower() != 'y':
+             print('BYE!')
             break
         
 if __name__ == "__main__":
