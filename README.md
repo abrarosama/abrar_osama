@@ -1,3 +1,9 @@
+Bikeshare project
+Extracting statistical information from data
+Prepared by Abrar Osama Aburihan 
+Class: Programming for Data Science
+Udacity
+
 ### Date created
 14.septemper.2023
 
