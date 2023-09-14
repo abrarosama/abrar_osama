@@ -202,6 +202,8 @@ def main():
         user_stats(df,city)
         show_row_data(df)
         restart = input('\nWould you like to restart? Enter "y" for yes or "n" for no.\n').lower()
+                #check wheather the user is entering the valid entry or not
+
         if restart.lower() != 'y':
              print('BYE!')
             break
